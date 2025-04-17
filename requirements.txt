@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+nltk
+zhipuai
+python-dotenv
+python-multipart  # 用于处理文件上传
